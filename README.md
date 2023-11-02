@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sumitchandora/sumitchandora/blob/main/swift.png)
 <h1 align="center">Hi 👋, I'm Sumit Chandora</h1>
 <h3 align="center">IOS Development Enthusiast..</h3>
 <h3 align="left">- Skills:  Swift, SwiftUI, Xcode
