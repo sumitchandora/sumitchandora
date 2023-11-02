@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.macworld.com/wp-content/uploads/2023/01/how-to-learn-swift.jpg?quality=50&strip=all))]("https://github.com/sumitchandora")
+
 <h1 align="center">Hi 👋, I'm Sumit Chandora</h1>
 <h3 align="center">IOS Development Enthusiast..</h3>
 <h3 align="left">- Skills:  Swift, SwiftUI, Xcode
