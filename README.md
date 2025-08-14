@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Chandora</h1>
 <h3 align="center">Learning and Building stuff in Backend Development</h3>
-<h3 align="left">- Skills:  HTML, EJS, CSS, JavaScript, ExpressJS
+<h3 align="left">- Skills: JavaScript, Node.js, ExpressJS.
   <br>
   <br>
 - 📩 How to reach me  ~ chandorasumit1234@gmail.com
